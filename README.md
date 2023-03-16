@@ -6,6 +6,3 @@
 - What I love :: learning and sharing things I learn about.
 - Software Interests :: [SDLC](https://www.atlassian.com/devops), [CALMS Framework](https://www.atlassian.com/devops/frameworks/calms-framework), Scripting Languages, Infrastructure as Code (IaC).
 - Learning about :: AWS, Go, and all things Security and DevOps.
-
-### Links
-- [LinkedIn](https://www.linkedin.com/in/elena-thomas-643397211/).
